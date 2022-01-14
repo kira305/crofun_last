@@ -1,0 +1,40 @@
+-------------------- 1番目の方法----------
+Step 1:
+
+dowload source from https://github.com/laravel-shift/laravel-5.6
+
+Step 2: 
+
+プロジェクトのフォルダにcmdを開いて
+
+"composer install”を実施
+
+Step 3:データベース情報を設定
+
+C:\home\NOC_CRM\trunk\src\config/database.php
+
+Step 4: Google Chorme/InternetExproder -> localhost:8000
+
+------------- 2番目の方法----------
+Open command line 
+
+Step 1:
+download the Laravel installer using Composer
+
+"composer global require laravel/installer"を実施
+
+
+Step 2:
+
+"composer create-project --prefer-dist laravel/laravel blog"を実施
+
+Step 3:
+
+"php artisan serve"を実施
+
+Step 4: データベース情報を設定
+
+C:\home\NOC_CRM\trunk\src\config/database.php
+
+Step 5: Google Chorme/InternetExproder -> localhost:8000
+

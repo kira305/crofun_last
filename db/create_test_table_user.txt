@@ -1,0 +1,19 @@
+
+
+CREATE TABLE public.users
+(
+    id integer NOT NULL DEFAULT nextval('users_id_seq'::regclass),
+    username character varying,
+    email character varying,
+    password character varying,
+    remember_token character varying,
+    authkey character varying,
+    CONSTRAINT users_pkey PRIMARY KEY (id)
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.users
+    OWNER to postgres;
