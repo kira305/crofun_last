@@ -1,0 +1,54 @@
+.title {
+     text-align: center;
+  }
+
+.highlight1 a{
+  
+    background-color:  #FFE4C4 !important;
+    
+    color:  #000000 !important;
+}
+  .concurrent {
+
+     background-color:  #FFE4E1;
+  }
+
+  .message {
+
+    text-align: center;
+    color: green
+
+  }
+
+  .input_lable {
+    
+    float: right;
+
+  }
+
+  .kensaku_button {
+
+     float: right;
+     width: 100px;
+
+  }
+  .clear {
+
+     float: left;
+     width: 100px;
+  }
+
+  .edit_button_with {
+
+     width: 100px;
+  }
+
+  label {
+
+     font-weight: 100;
+  }
+
+ .hidden_lable {
+
+    margin-top: 10px
+ }

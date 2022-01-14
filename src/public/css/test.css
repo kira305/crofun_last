@@ -1,0 +1,18 @@
+.hinh-vuong {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  -webkit-box-shadow: 1px 1px 1px 1px #bf0000;
+          box-shadow: 1px 1px 1px 1px #bf0000;
+}
+
+.hinh-vuong .mau-chu {
+  size: 14px;
+  text-align: center;
+}
+
+.hinh-vuong .mau-chu .dong-1 {
+  color: #bf0000;
+  text-align: left;
+}
+

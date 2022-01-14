@@ -1,0 +1,65 @@
+/* @media (min-width: 992px) { */
+.box-body .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.difference {
+    background-color: #ffcccc !important;
+}
+#MonthPicker_target_data_st{
+    width: 180px;
+}
+#MonthPicker_target_data_en{
+    width: 180px;
+}
+#MonthPicker_get_time{
+    width: 180px;
+}
+
+.table>thead>tr>th,.table>tbody>tr>td  {
+    vertical-align: middle;
+    /* width: fit-content; */
+    height: 35px;
+}
+
+@media (max-width: 767px) {
+    .table>thead>tr>th,.table>tbody>tr>td  {
+        white-space: nowrap;
+    }
+
+    .table-parent {
+        overflow-x: auto;
+    }
+
+    .box-body .col-md-12 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .fix-mobile-col {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+.skin-blue .main-header .navbar{background-color:#367fa9}
+
+.form-control[disabled] {
+    background-color: #f4f4f4;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.width-100{
+    width: 100%;
+}
+
+.show-menu {
+    -webkit-transform: translate(-230px, 0);
+    -ms-transform: translate(-230px, 0);
+    -o-transform: translate(-230px, 0);
+    transform: translate(-230px, 0);
+}

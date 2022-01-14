@@ -1,0 +1,14 @@
+$credit_infor_with: 100%;
+#credit_infor {
+      
+      float: left;
+      .infor1 {
+
+      	 width: $credit_infor_with/12;
+      }
+     
+      .infor2 {
+
+      	 width: $credit_infor_with/12;
+      }
+}

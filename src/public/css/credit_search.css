@@ -1,0 +1,6 @@
+.table-config {
+    border: 3px solid #d2d6de;
+}
+.table-config  tbody  tr  td {
+    width: calc(100% / 12);
+}

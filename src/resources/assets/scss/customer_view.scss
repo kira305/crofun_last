@@ -1,0 +1,196 @@
+$table_with : 70%;
+
+.blueTable {
+	
+	    width: $table_with;
+      margin-left: 10%;
+      border: 0.5px solid #1C6EA4;
+      background-color: #ffffff;
+      text-align: left;
+      border-collapse: collapse;
+    
+      td {
+        
+  
+           font-size: 12px;
+           border: 1px solid #AAAAAA;
+           padding: 3px 2px;
+           
+           .organization{
+
+               width: 30%;
+           }
+
+           .col3 {
+             
+             width: 45%;
+               
+           }
+
+           .label_code {
+             
+             width: 30%;
+             float: left;
+
+           }
+
+           .label_address {
+
+              width: 30%;
+              float: left;
+           }
+           
+           .client_code {
+
+              float: left;
+
+           }
+
+           .client_address {
+
+              float: left;
+
+           }
+
+           .label_2 {
+
+               width: 30%;
+               float:left; 
+           }
+
+          .label_1 {
+           
+            white-space: nowrap;
+				    width: 30%;
+				    overflow: hidden;
+				    text-overflow: ellipsis;
+				    float:left;  
+				    margin-right: 0%;
+
+              b{
+                    
+                vertical-align: middle;
+ 
+              }
+
+           }
+
+
+
+           p {
+
+           	 margin-left: 0%;
+             margin-top: 0%;
+
+           }
+
+           button {
+
+           		horizontal-align: middle;
+           		display: block;
+              margin:auto;
+
+           }
+
+           .minimal {
+            
+              vertical-align: middle;
+              display: block;
+              margin:auto;
+
+           }
+           
+           #yoshinchousa {
+
+            display: block;
+            padding-left: 15px;
+            text-indent: -15px;
+
+           }
+
+           #yoshinchousa_1 {
+               
+              width: 12px;
+              height: 13px;
+              padding: 0;
+              margin:0;
+              vertical-align: bottom;
+              position: relative;
+              top: -1px;
+              overflow: hidden;
+
+           }
+           
+           #label_x_0 {
+              
+                display: block;
+                padding-left: 15px;
+                text-indent: -15px;
+                float: left;
+
+           }
+
+           #input_x_0 {
+
+                width: 12px;
+                height: 13px;
+                padding: 0;
+                margin:0;
+                vertical-align: bottom;
+                position: relative;
+                top: 3px;
+                overflow: hidden;
+                float: left;
+                margin-left: 2%;
+           }
+
+          #label_x_1 {
+              
+                display: block;
+                padding-left: 15px;
+                text-indent: -15px;
+                float: left;
+
+           }
+
+           #input_x_1 {
+
+                width: 12px;
+                height: 13px;
+                padding: 0;
+                margin:0;
+                vertical-align: bottom;
+                position: relative;
+                top: 3px;
+                overflow: hidden;
+                float: left;
+                margin-left: 2%;
+           }
+          
+          #label_x_2 {
+              
+                display: block;
+                padding-left: 15px;
+                text-indent: -15px;
+                float: left;
+
+           }
+
+           #input_x_2 {
+
+                width: 12px;
+                height: 13px;
+                padding: 0;
+                margin:0;
+                vertical-align: bottom;
+                position: relative;
+                top: 3px;
+                overflow: hidden;
+                float: left;
+                margin-left: 2%;
+           }
+
+
+      }
+}
+

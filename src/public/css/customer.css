@@ -1,0 +1,45 @@
+.blueTable {
+  width: 70%;
+  margin-left: 20%;
+  border: 0.5px solid #1C6EA4;
+  background-color: #ffffff;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.blueTable td {
+  font-size: 13px;
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+
+.blueTable td label {
+  white-space: nowrap;
+  width: 50%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  float: left;
+  margin-right: 0%;
+}
+
+.blueTable td label b {
+  vertical-align: middle;
+}
+
+.blueTable td p {
+  margin-left: 0%;
+  margin-top: 0%;
+}
+
+.blueTable td button {
+  horizontal-align: middle;
+  display: block;
+  margin: auto;
+}
+
+.blueTable td .minimal {
+  vertical-align: middle;
+  display: block;
+  margin: auto;
+}
+

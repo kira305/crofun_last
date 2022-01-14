@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/test.css": "/css/test.css",
+    "/css/table_master.css": "/css/table_master.css",
+    "/css/customer_view.css": "/css/customer_view.css",
+    "/css/customer_create.css": "/css/customer_create.css",
+    "/css/customer_edit.css": "/css/customer_edit.css",
+    "/css/credit_search.css": "/css/credit_search.css"
+}

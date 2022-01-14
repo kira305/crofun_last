@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+  .col-md-6 {
+    width:auto ;
+  }
+  .col-md-1 {
+    width: 15%;
+    white-space: nowrap;
+  }
+  .col-md-2 {
+    width: 25%;
+    white-space: nowrap;
+  }
+  .col-md-3 {
+    width: 15%;
+    white-space: nowrap;
+  }
+}
+th, td { white-space: nowrap; }

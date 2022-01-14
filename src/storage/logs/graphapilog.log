@@ -1,0 +1,45 @@
+[2021-07-31 11:28:19] local.INFO: Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T02:28:19","request-id":"647429ac-a3d6-4cc9-8a7e-b1fefc376149","client-request-id":"647429ac-a3d6-4cc9-8a7e-b1fefc376149"}}}
+  
+[2021-07-31 12:04:32] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:04:32","request-id":"7fec179e-6151-4c54-b0e5-17c57800d53a","client-request-id":"7fec179e-6151-4c54-b0e5-17c57800d53a"}}}
+
+  
+[2021-07-31 12:05:03] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:05:03","request-id":"93970f70-45ec-4288-84bf-83ffded793a4","client-request-id":"93970f70-45ec-4288-84bf-83ffded793a4"}}}
+
+  
+[2021-07-31 12:05:24] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:05:23","request-id":"8c55717a-57ad-4421-99d3-103e7aaa20c2","client-request-id":"8c55717a-57ad-4421-99d3-103e7aaa20c2"}}}
+  
+[2021-07-31 12:29:55] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:29:54","request-id":"95858b85-29f1-4a38-b25e-a2d3aad3f90f","client-request-id":"95858b85-29f1-4a38-b25e-a2d3aad3f90f"}}}
+  
+[2021-07-31 12:30:27] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:30:27","request-id":"8ec1258d-804b-4b40-9a42-416131695bac","client-request-id":"8ec1258d-804b-4b40-9a42-416131695bac"}}}
+  
+[2021-07-31 12:30:59] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-07-31T03:30:59","request-id":"a0ae32a6-0573-437d-afc5-910c4a0a9bf9","client-request-id":"a0ae32a6-0573-437d-afc5-910c4a0a9bf9"}}}
+  
+[2021-08-02 10:50:31] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-08-02T01:50:30","request-id":"a1857b7e-417e-44f0-99e0-0efad13da76a","client-request-id":"a1857b7e-417e-44f0-99e0-0efad13da76a"}}}
+  
+[2021-08-02 10:53:21] local.INFO: usr_code: 3181048
+action: contract alert
+Client error: `POST https://graph.microsoft.com/v1.0/chats/19:1fee83f3-44bd-4432-98ed-268065dd8180_efbf9a74-7099-4f29-93b4-e39d9e67ffc8@unq.gbl.spaces/messages` resulted in a `404 Not Found` response:
+{"error":{"code":"NotFound","message":"Not Found","innerError":{"date":"2021-08-02T01:53:20","request-id":"d44a8b83-20d4-4a62-845d-47f315dce87a","client-request-id":"d44a8b83-20d4-4a62-845d-47f315dce87a"}}}
+  

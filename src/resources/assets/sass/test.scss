@@ -1,0 +1,21 @@
+$mau-nau-do: #bf0000;
+$kich-thuoc: 100px;
+
+@mixin dong-1($color, $text) {
+    color: $color;
+    text-align: $text;
+}
+
+.hinh-vuong {
+    width: $kich-thuoc;
+    height: $kich-thuoc;
+    background-color: blue;
+    box-shadow: 1px 1px 1px 1px $mau-nau-do;
+    .mau-chu {
+        size: 14px;
+        text-align: center;
+        .dong-1 {
+            @include dong-1($mau-nau-do, left);
+        }
+    }
+}

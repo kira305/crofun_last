@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+    <head>
+        <title>How to Highlight selected date in jQuery UI Datepicker</title>
+        <link href='jquery-ui.min.css' rel='stylesheet' type='text/css'>
+        <script src='jquery-3.0.0.js' type='text/javascript'></script>
+        <script src='jquery-ui.min.js' type='text/javascript'></script>
+        <link href='style.css' rel='stylesheet' type='text/css'>
+        
+        <script type='text/javascript'>
+            
+            // An array of dates ( 'dd-mm-yyyy' )
+            var highlight_dates = ['1-11-2016','3-11-2016','7-11-2016','11-11-2016'];
+            
+            $(document).ready(function(){
+                
+                // Initialize datepicker
+                $('#datepicker').datepicker({
+                    beforeShowDay: function(date){
+                        
+                        var month = date.getMonth()+1;
+                        var year = date.getFullYear();
+                        var day = date.getDate();
+                        
+                        // Change format of date
+                        var newdate = day+"-"+month+'-'+year;
+
+                        // Set tooltip text when mouse over date
+                        var tooltip_text = "New event on "+newdate;
+
+                        // Check date in Array
+                        if(jQuery.inArray(newdate, highlight_dates) != -1){
+                            return [true, "highlight", tooltip_text ];
+                        }
+                        return [true];
+                    }
+                });
+            });
+        </script>
+        
+    </head>
+    <body>
+        <div class='container'>
+            
+            <input type='text' id='datepicker'><br>
+            
+        </div>
+    </body>
+</html>
